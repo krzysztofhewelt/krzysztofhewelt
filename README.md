@@ -2,8 +2,8 @@
 
 # About me:
 
-- Krzysztof Hewelt, a programmer looking to learn more and more in the web technologies
-- I am a final year undergraduate in Computer Science from Gdynia Maritime University
+- Krzysztof Hewelt, a programmer looking to learn more and more in the web technologies.
+- I am a final year undergraduate in Computer Science from Gdynia Maritime University.
 - My passion is making web apps, databases and desktop apps.
 
 ## Connect with me
