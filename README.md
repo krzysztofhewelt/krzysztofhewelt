@@ -38,6 +38,6 @@
 </div>
 
 ## My stats
-<a href="https://github.com/krzysztofhewelt">s
+<a href="https://github.com/krzysztofhewelt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofhewelt&layout=compact&theme=dark" />
 </a>
