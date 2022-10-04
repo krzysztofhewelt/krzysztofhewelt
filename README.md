@@ -36,8 +36,3 @@
 <img width="40" height="30" alt="jetbrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 <img width="40" height="30" alt="visual studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
-
-## My stats
-<a href="https://github.com/krzysztofhewelt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofhewelt&layout=compact&theme=dark">
-</a>
