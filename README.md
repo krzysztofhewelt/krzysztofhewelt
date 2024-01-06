@@ -6,10 +6,6 @@
 - I am a bachelor's degree of Computer Science at Gdynia Maritime University.
 - My passion is making web apps, databases and desktop apps.
 
-## Connect with me
-<a href="https://www.linkedin.com/in/krzysztof-hewelt-479197237/"><img width="40" height="30" alt="my linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-
-
 ## My skills
 <div style="display:inline-block;">
 <img width="40" height="30" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -39,4 +35,7 @@
 <img width="40" height="30" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img width="40" height="30" alt="jetbrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 <img width="40" height="30" alt="visual studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+
+## Connect with me
+<a href="https://www.linkedin.com/in/krzysztof-hewelt-479197237/"><img width="40" height="30" alt="my linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </div>
