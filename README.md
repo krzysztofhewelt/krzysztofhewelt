@@ -3,7 +3,7 @@
 # About me:
 
 - Krzysztof Hewelt, a programmer looking to learn more and more in the web technologies.
-- I am a bachelor's degree of Computer Science at Gdynia Maritime University.
+- I am a Bachelor's and Master's degrees of Computer Science at Gdynia Maritime University.
 - My passion is making web apps, databases and desktop apps.
 
 ## My skills
